@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>59</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>91</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6330</DEFECTCODE>
+    <DESCRIPTION>'char' passed as _Param_(1) when 'unsigned char' is required in call to 'isprint'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>106</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>116</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: '_getch'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>67</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function strtok appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>70</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function strcmp appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>74</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function strtok appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>75</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function strcpy appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>91</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function isprint appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>103</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function strcmp appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>165</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>parseChoice</FUNCTION>
+    <DECORATED>parseChoice</DECORATED>
+    <FUNCLINE>131</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>180</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>addPlayer</FUNCTION>
+    <DECORATED>addPlayer</DECORATED>
+    <FUNCLINE>174</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>180</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6066</DEFECTCODE>
+    <DESCRIPTION>Non-pointer passed as _Param_(2) when pointer is required in call to 'scanf' Actual type: 'int'.</DESCRIPTION>
+    <FUNCTION>addPlayer</FUNCTION>
+    <DECORATED>addPlayer</DECORATED>
+    <FUNCLINE>174</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>205</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function strcmp appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>search</FUNCTION>
+    <DECORATED>search</DECORATED>
+    <FUNCLINE>194</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>233</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>addPlayerToList</FUNCTION>
+    <DECORATED>addPlayerToList</DECORATED>
+    <FUNCLINE>217</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>236</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>addPlayerToList</FUNCTION>
+    <DECORATED>addPlayerToList</DECORATED>
+    <FUNCLINE>217</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>239</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>addPlayerToList</FUNCTION>
+    <DECORATED>addPlayerToList</DECORATED>
+    <FUNCLINE>217</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>242</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>addPlayerToList</FUNCTION>
+    <DECORATED>addPlayerToList</DECORATED>
+    <FUNCLINE>217</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>245</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>addPlayerToList</FUNCTION>
+    <DECORATED>addPlayerToList</DECORATED>
+    <FUNCLINE>217</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>248</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>addPlayerToList</FUNCTION>
+    <DECORATED>addPlayerToList</DECORATED>
+    <FUNCLINE>217</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>251</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>addPlayerToList</FUNCTION>
+    <DECORATED>addPlayerToList</DECORATED>
+    <FUNCLINE>217</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>254</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>addPlayerToList</FUNCTION>
+    <DECORATED>addPlayerToList</DECORATED>
+    <FUNCLINE>217</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>257</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>addPlayerToList</FUNCTION>
+    <DECORATED>addPlayerToList</DECORATED>
+    <FUNCLINE>217</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>261</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>addPlayerToList</FUNCTION>
+    <DECORATED>addPlayerToList</DECORATED>
+    <FUNCLINE>217</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>230</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function strcpy appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>addPlayerToList</FUNCTION>
+    <DECORATED>addPlayerToList</DECORATED>
+    <FUNCLINE>217</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>230</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>Dereferencing NULL pointer 'newNode'. </DESCRIPTION>
+    <FUNCTION>addPlayerToList</FUNCTION>
+    <DECORATED>addPlayerToList</DECORATED>
+    <FUNCLINE>217</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>220</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>221</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>222</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>223</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>227</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>228</LINE>
+        <COLUMN>9</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'newNode' may be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>e:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>230</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'newNode' is dereferenced, but may still be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

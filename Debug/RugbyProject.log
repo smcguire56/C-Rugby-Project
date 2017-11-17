@@ -1,0 +1,16 @@
+﻿  main.c
+f:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\main.c(67): warning C4013: 'strtok' undefined; assuming extern returning int
+f:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\main.c(70): warning C4013: 'strcmp' undefined; assuming extern returning int
+f:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\main.c(75): warning C4013: 'strcpy' undefined; assuming extern returning int
+f:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\main.c(91): warning C4013: 'isprint' undefined; assuming extern returning int
+f:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\main.c(183): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+f:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\main.c(183): warning C4024: 'search': different types for formal and actual parameter 2
+f:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\main.c(186): warning C4047: 'function': 'node *' differs in levels of indirection from 'node **'
+f:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\main.c(186): warning C4024: 'addPlayerToList': different types for formal and actual parameter 1
+f:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\main.c(186): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+f:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\main.c(186): warning C4024: 'addPlayerToList': different types for formal and actual parameter 2
+f:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\main.c(180): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+f:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\main.c(242): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'float *'
+f:\year 2\2nd semester\advanced procedural programming\c project 26.03.2017\rugbyproject\main.c(245): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'float *'
+  RugbyProject.vcxproj -> F:\Year 2\2nd Semester\Advanced Procedural Programming\C Project 26.03.2017\RugbyProject\Debug\RugbyProject.exe
+  RugbyProject.vcxproj -> F:\Year 2\2nd Semester\Advanced Procedural Programming\C Project 26.03.2017\RugbyProject\Debug\RugbyProject.pdb (Full PDB)
